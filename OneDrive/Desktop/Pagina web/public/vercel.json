@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "public": "./public",
+    "rewrites": [
+      { "source": "/catalogo", "destination": "/catalogo.html" },
+      { "source": "/carrito", "destination": "/carrito.html" },
+      { "source": "/profile", "destination": "/profile.html" }
+    ]
+  }
+  
